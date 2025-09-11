@@ -25,7 +25,7 @@ It forecasts **next-hour electricity demand** using **Machine Learning (Random F
 │ ├── scaler.joblib   
 │ └── random_forest.joblib   
 ├── AEP_hourly.csv # Dataset (Hourly electricity demand)  
-├── energy_forecasting.ipynb # Jupyter Notebook (model training)  
+├── energy_demand_forecasting_pjm_aep.ipynb # Jupyter Notebook (model training)  
 ├── app.py # Streamlit web application  
 ├── requirements.txt # Dependencies  
 └── README.md # Project documentation  
