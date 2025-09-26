@@ -89,10 +89,6 @@ Web App (Prediction Screen)
 - Deploy app on Streamlit Cloud / Heroku.  
 - Improve LSTM tuning for better accuracy.
 
-## 📜 License
 
-This project is licensed under the MIT License.  
-
-✍️ Author- Shreya Sati
 
 
